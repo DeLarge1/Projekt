@@ -1,0 +1,6 @@
+participant_id,response,quality_score,flags
+1,I think remote work improves productivity because I can focus and plan deep work blocks.,100.0,
+2,idk,55.0,low_effort
+3,"I always trust online ads, but I never trust online ads when they are personalized.",75.0,possible_contradiction
+4,This study is great and very useful for understanding behavior in realistic environments.,70.0,possible_copy_paste
+5,This study is great and very useful for understanding behavior in realistic environments.,70.0,possible_copy_paste
